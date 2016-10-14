@@ -1,0 +1,64 @@
+.navbar-brand img{
+    height: 30px;
+    width: 155px;
+}
+.management-class,.strategy-class,.navbar-nav>li>a.strategy-class:hover{
+    color: #fff;
+}
+.navbar-nav>li>a:hover{
+    background: none;
+    color: #BEAF79;
+}
+
+nav{
+    background: #2E363E;
+    height:50px;
+}
+nav.navbar-static-top{
+    margin: 0;
+}
+.stock-dropdown > ol#nya-bs-select{
+    width: 100px;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.stock-dropdown > ol#nya-bs-select button{
+    border-radius: 0;
+}
+.hamburger{
+    margin-top:7px;
+}
+.hamburger button,.hamburger button:hover,.hamburger.open>.dropdown-toggle.btn-default:hover,
+.hamburger.open>.dropdown-toggle.btn-default:focus,.hamburger.open>.dropdown-toggle.btn-default:visited,.hamburger .dropdown-toggle.btn-default:active{
+    background: transparent;
+    color: #BEB079;
+    border: 0;
+}
+.grey-tag{
+    height:50px;
+    background: #F3F3F4;
+}
+.grey-tag ul {
+    list-style: none;
+    float:right;
+    margin-bottom: 0;
+    line-height: 1.6;
+}
+.grey-tag ul li{
+    display: inline-block;
+}
+.grey-tag ul li:not(:last-child){
+    border-right: 1px dotted #B1B1B1;
+}
+.grey-tag ul li span,.grey-tag ul li small{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.grey-tag ul li span{
+    font-size: 18px;
+    color: #6E9D89;
+}
+.col{
+    border: 5px solid #CCCCCC;
+}
